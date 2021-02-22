@@ -73,7 +73,10 @@ ${renderLicenseSection(data.license)}
 
 ## Test Instructions
     ${data.test}   
+## Walk through Video
+  Uses the [Inquirer package](https://drive.google.com/file/d/1YnK6js6nZa2f-Sy14vo2SeoEU4G369Pj/view?usp=sharing).
 `;
+
 }
 
 module.exports = generateMarkdown;

@@ -30,3 +30,6 @@ The MIT License is a permissive free software license originating at the Massach
 
 ## Test Instructions
     test   
+
+## Walk through Video
+  Uses the [walk through video](https://drive.google.com/file/d/1YnK6js6nZa2f-Sy14vo2SeoEU4G369Pj/view?usp=sharing).
